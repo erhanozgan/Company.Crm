@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lAsF5z9olWfFHgGlwDPHv2MyKC5AMb9sEpH0/aGIBGo=",
+  "Source": "Company.Crm.Web.Api",
+  "BasePath": "_content/Company.Crm.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
