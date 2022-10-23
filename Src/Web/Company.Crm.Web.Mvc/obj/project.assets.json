@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Web/Company.Crm.Web.Mvc/Company.Crm.Web.Mvc.csproj",
+      "projectUniqueName": "/Users/erhanozgan/Desktop/Company.Crm/Src/Web/Company.Crm.Web.Mvc/Company.Crm.Web.Mvc.csproj",
       "projectName": "Company.Crm.Web.Mvc",
-      "projectPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Web/Company.Crm.Web.Mvc/Company.Crm.Web.Mvc.csproj",
+      "projectPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Web/Company.Crm.Web.Mvc/Company.Crm.Web.Mvc.csproj",
       "packagesPath": "/Users/erhanozgan/.nuget/packages/",
-      "outputPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Web/Company.Crm.Web.Mvc/obj/",
+      "outputPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Web/Company.Crm.Web.Mvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erhanozgan/.nuget/NuGet/NuGet.Config"

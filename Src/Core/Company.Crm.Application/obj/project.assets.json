@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
+      "projectUniqueName": "/Users/erhanozgan/Desktop/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
       "projectName": "Company.Crm.Application",
-      "projectPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
+      "projectPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
       "packagesPath": "/Users/erhanozgan/.nuget/packages/",
-      "outputPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Core/Company.Crm.Application/obj/",
+      "outputPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Core/Company.Crm.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erhanozgan/.nuget/NuGet/NuGet.Config"

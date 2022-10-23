@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj": {}
+    "/Users/erhanozgan/Desktop/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj": {}
   },
   "projects": {
-    "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj": {
+    "/Users/erhanozgan/Desktop/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj",
+        "projectUniqueName": "/Users/erhanozgan/Desktop/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj",
         "projectName": "Company.Framework",
-        "projectPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj",
+        "projectPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Framework/Company.Framework/Company.Framework.csproj",
         "packagesPath": "/Users/erhanozgan/.nuget/packages/",
-        "outputPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Framework/Company.Framework/obj/",
+        "outputPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Framework/Company.Framework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erhanozgan/.nuget/NuGet/NuGet.Config"

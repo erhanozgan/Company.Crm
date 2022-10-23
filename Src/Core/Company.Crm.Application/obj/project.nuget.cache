@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B31pF/RdCCqrb65Ra9PC0gc7yhLEo+hmy7yJ/hXoAi00M5lbHNJJ7lEtplNd15bw+VHhqiKj6fDF1t6cjEpaoQ==",
+  "dgSpecHash": "cz5qNth4Z9trFkT45VrURaPJM8lZT4T6+QncbrEsO2l/cEQNgHgebAhk7lc657nu6ZT6RQTZAeSE+s+IbB1QTA==",
   "success": true,
-  "projectFilePath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
+  "projectFilePath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Core/Company.Crm.Application/Company.Crm.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

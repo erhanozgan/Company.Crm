@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
+      "projectUniqueName": "/Users/erhanozgan/Desktop/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
       "projectName": "Company.Crm.Entityframework",
-      "projectPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
+      "projectPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
       "packagesPath": "/Users/erhanozgan/.nuget/packages/",
-      "outputPath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/obj/",
+      "outputPath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erhanozgan/.nuget/NuGet/NuGet.Config"

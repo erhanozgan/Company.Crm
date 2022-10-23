@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCzud6nr40g+g8bKKeutt/uOEbh5NgEzYRC1ZxMmcxA4S93fHRCJDkeZ7uU5FYiCCPGsoKdjtlTXkTy/I1tbHw==",
+  "dgSpecHash": "YoMgh1hNFe+UGSbdN5oA+W8IX3p5ije48H7jcljeLkrqXoHtxj4x64MZH6U2eBev+vtN7BDYoIzS3Wt9Nk2CRw==",
   "success": true,
-  "projectFilePath": "/Users/erhanozgan/Desktop/SF002/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
+  "projectFilePath": "/Users/erhanozgan/Desktop/Company.Crm/Src/Infrastructure/Company.Crm.Entityframework/Company.Crm.Entityframework.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
